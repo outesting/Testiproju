@@ -1,0 +1,8 @@
+site_name: Testiproju
+site_description: Testing template things
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

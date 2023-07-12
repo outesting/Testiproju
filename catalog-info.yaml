@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Testiproju"
+  description: "Testing template things"
+  annotations:
+    github.com/project-slug: outesting/Testiproju
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: repository
+  lifecycle: experimental
+  owner: "tecdev"
